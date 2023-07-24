@@ -2,7 +2,7 @@
 
 <h2> Prácticas para ingenieros ambientales </h2><br>
 
-<p>Todo sistema con aplicaciones ambientales (como un reactor, un sedimentador, o un separador de ciclores) o fenómeno natural (con impacto ambiental como las inundaciones)  
+<p>Todo sistema con aplicaciones ambientales (como un reactor, un sedimentador, o un separador de ciclones) o fenómeno natural (con impacto ambiental como las inundaciones)  
 involucra los conceptos fundamentales de los balances de materia y energía para su entendimiento. Los balances son una herramienta esencial para el diseño, 
 construcción, análisis y optimización de procesos físicos, químicos y biológicos.</p><br>
 
